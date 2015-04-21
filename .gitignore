@@ -6,7 +6,7 @@ pom.xml.next
 release.properties
 .classpath
 .project
-.setting/
+.settings/
 # =========================
 # Operating System Files
 # =========================
