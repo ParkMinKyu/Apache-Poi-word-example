@@ -21,11 +21,7 @@ package com.min.word.core;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.InputStream;
-import java.io.OutputStream;
 import java.math.BigInteger;
-import java.net.URL;
-import java.net.URLConnection;
 
 import org.apache.poi.util.Units;
 import org.apache.poi.xwpf.usermodel.Borders;
