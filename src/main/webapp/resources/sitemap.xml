@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+ <loc>http://www.niee.kr/</loc>
+ <changefreq>daily</changefreq>
+ <priority>0.8</priority>
+ </url>
+ <url>
+ <loc>http://www.niee.kr/taiji/view/main</loc>
+ </url>
+ <url>
+ <loc>http://www.niee.kr/taiji/view/article/list</loc>
+ </url>
+ <url>
+ <loc>http://www.niee.kr/taiji/view/question</loc>
+ </url>
+ <url>
+ <loc>http://niee.kr/taiji/view/img/list/1</loc>
+ </url>
+ <url>
+ <loc>http://niee.kr/taiji/view/img/list/5</loc>
+ </url>
+ <url>
+ <loc>http://niee.kr/taiji/view/img/list/6</loc>
+ </url>
+ <url>
+ <loc>http://niee.kr/taiji/view/img/list/7</loc>
+ </url>
+ <url>
+ <loc>http://niee.kr/taiji/view/img/list/8</loc>
+ </url>
+ <url>
+ <loc>http://niee.kr/taiji/view/img/list/9</loc>
+ </url>
+</urlset>
